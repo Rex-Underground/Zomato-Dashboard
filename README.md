@@ -31,6 +31,6 @@ This Power BI dashboard provides a comprehensive analysis of Zomato sales across
 
 ## Preview
 
-![Dashboard Preview](https://github.com/Rex-Underground/Zomato-Dashboard/assets/zomato_dashboard_preview.png)
+![DashBoard](https://github.com/Rex-Underground/Zomato-Dashboard/assets/158386292/1f8811b0-6ee0-4d9e-9646-fa877ae7cece)
 
 ## Made By - Aditya Pathania
